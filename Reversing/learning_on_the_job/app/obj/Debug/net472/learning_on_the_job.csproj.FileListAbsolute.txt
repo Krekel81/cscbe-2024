@@ -1,0 +1,10 @@
+C:\Users\tibok\Documents\Hacking\csc-2024\Reversing\learning_on_the_job\app\bin\Debug\net472\learning_on_the_job.exe.config
+C:\Users\tibok\Documents\Hacking\csc-2024\Reversing\learning_on_the_job\app\bin\Debug\net472\learning_on_the_job.exe
+C:\Users\tibok\Documents\Hacking\csc-2024\Reversing\learning_on_the_job\app\bin\Debug\net472\learning_on_the_job.pdb
+C:\Users\tibok\Documents\Hacking\csc-2024\Reversing\learning_on_the_job\app\obj\Debug\net472\learning_on_the_job.csproj.AssemblyReference.cache
+C:\Users\tibok\Documents\Hacking\csc-2024\Reversing\learning_on_the_job\app\obj\Debug\net472\learning_on_the_job.learning_on_the_job.Properties.Resources.resources
+C:\Users\tibok\Documents\Hacking\csc-2024\Reversing\learning_on_the_job\app\obj\Debug\net472\learning_on_the_job.csproj.GenerateResource.cache
+C:\Users\tibok\Documents\Hacking\csc-2024\Reversing\learning_on_the_job\app\obj\Debug\net472\learning_on_the_job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tibok\Documents\Hacking\csc-2024\Reversing\learning_on_the_job\app\obj\Debug\net472\learning_on_the_job.csproj.CoreCompileInputs.cache
+C:\Users\tibok\Documents\Hacking\csc-2024\Reversing\learning_on_the_job\app\obj\Debug\net472\learning_on_the_job.exe
+C:\Users\tibok\Documents\Hacking\csc-2024\Reversing\learning_on_the_job\app\obj\Debug\net472\learning_on_the_job.pdb
